@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "openai": "^3.1.0",
+    "sentiment": "^5.0.2"
+  }
+}
